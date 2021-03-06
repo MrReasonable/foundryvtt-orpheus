@@ -1,1 +1,1 @@
-# foundryvtt-cod
+# Chronicles of Darkness System for FoundryVTT

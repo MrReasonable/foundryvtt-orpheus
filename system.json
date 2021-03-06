@@ -1,0 +1,24 @@
+{
+  "name": "cod",
+  "title": "Chronicles of Darkness",
+  "description": "Chronicles of Darkness",
+  "version":  "0.0.1",
+  "templateVersion:": "2",
+  "author": "MrReasonable",
+  "socket": false,
+  "initiative": "1d10",
+  "url": "https://github.com/MrReasonable/foundryvtt-orpheus",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "manifest": "https://raw.githubusercontent.com/MrReasonable/foundryvtt-orpheus/master/system.json",
+  "download": "https://github.com/MrReasonable/foundryvtt-orpheus/archive/master.zip",
+  "gridDistance": 1,
+  "gridUnits": "yd"
+}
